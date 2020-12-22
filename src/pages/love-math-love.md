@@ -42,7 +42,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: lorem-ipsumffffff
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
