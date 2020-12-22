@@ -9,7 +9,7 @@ sections:
     actions: []
   - section_id: about
     type: section_content
-    title: About
+    title: About me
     content: |-
       Welcome to my little world.  I am glad that you find me here (≥∇≤)Y
 
