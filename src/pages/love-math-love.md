@@ -18,7 +18,14 @@ sections:
       - dolor sit amet
     form_id: lorem-ipsum
     form_action: lorem-ipsum
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: lorem-ipsum
     type: section_form
   - title: lorem-ipsum
