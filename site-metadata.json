@@ -33,6 +33,14 @@
                 "type": "action"
             },
             {
+                "label": "Other",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -41,14 +49,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Other",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "has_social": true,
