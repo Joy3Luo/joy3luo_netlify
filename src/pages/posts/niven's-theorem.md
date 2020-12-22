@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Niven's Theorem
 subtitle: lorem-ipsum
 date: '2020-12-22'
 excerpt: lorem-ipsum
