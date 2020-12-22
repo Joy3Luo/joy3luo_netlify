@@ -29,6 +29,6 @@ sections:
     actions:
       - label: View ALL
         url: blog/index.html
-        style: icon
+        style: button
 template: advanced
 ---
