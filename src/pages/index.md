@@ -27,7 +27,7 @@ sections:
     title: Recent Posts
     posts_number: 6
     actions:
-      - label: View Blog
+      - label: View ALL
         url: blog/index.html
         style: button
 template: advanced
