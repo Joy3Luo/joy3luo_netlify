@@ -1,4 +1,4 @@
 ---
-title: ♥ MATH ♥
+title: ''
 template: blog
 ---
