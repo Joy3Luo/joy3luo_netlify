@@ -21,5 +21,10 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
 template: advanced
 ---
