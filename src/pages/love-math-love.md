@@ -1,7 +1,7 @@
 ---
 title: ''
 subtitle: lorem-ipsum
-excerpt: lorem-ipsumjj
+excerpt: lorem-ipsum
 template: page
 ---
 ## Lorem ipsum
