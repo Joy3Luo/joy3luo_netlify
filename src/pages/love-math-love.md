@@ -1,5 +1,5 @@
 ---
-title: ♥ MATH ♥
+title: ''
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 template: page
