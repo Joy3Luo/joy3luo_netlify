@@ -7,7 +7,7 @@ sections:
     title: 'Hiiiiii, '
     content: How are you doing today ( •̀ ᴗ •́ )✧
     actions: []
-  - section_id: about
+  - section_id: about me
     type: section_content
     title: About
     content: |-
