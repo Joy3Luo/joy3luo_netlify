@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hiiiiii, there '
+    title: 'Hiiiiii, '
     content: 'Welcome to my math/coding notes :)'
   - section_id: about
     type: section_content
