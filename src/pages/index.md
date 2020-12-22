@@ -10,11 +10,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: |-
+      Welcome to my little world. 
+
+      I am a math student from University of Maryland. 
+
+      I enjoy taking notes and share my notes to the world.
+
+      Hope you will find something interesting here, I bet you will ^-^
     actions:
       - label: Contact Me
         url: /contact
