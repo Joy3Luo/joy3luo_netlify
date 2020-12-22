@@ -50,7 +50,7 @@ sections:
         type: action
     type: section_content
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: lorem
     posts_number: 0
     actions: []
     type: section_posts
