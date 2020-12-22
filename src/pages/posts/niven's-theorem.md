@@ -3,7 +3,7 @@ title: Niven's Theorem
 subtitle: ''
 date: '2020-12-22'
 excerpt: lorem-ipsum
-canonical_url: Nive's-theorem
+canonical_url: nivens-theorem
 template: post
 ---
 
