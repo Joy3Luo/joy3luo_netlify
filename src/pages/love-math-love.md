@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsumdsfsdf
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: lorem-ipsumssdd
 sections:
   - title: kjkdjksa
     section_id: hero
