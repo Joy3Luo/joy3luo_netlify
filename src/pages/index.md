@@ -7,7 +7,7 @@ sections:
     title: 'Hiiiiii, '
     content: Welcome to my math/coding notes
     actions: []
-  - section_id: hero
+  - section_id: about
     type: section_content
     title: About
     content: |-
