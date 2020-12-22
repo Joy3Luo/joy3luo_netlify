@@ -1,8 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 
-import "katex/dist/katex.min.css"
-
 import {getData, getPages} from '../utils';
 import BlogFeedItemFilter from './BlogFeedItemFilter';
 

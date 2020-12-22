@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import "katex/dist/katex.min.css"
 
 import {Link, classNames, withPrefix} from '../utils';
 

@@ -24,8 +24,6 @@ import TeamSection from './TeamSection';
 
 import Layout from './Layout';
 
-import "katex/dist/katex.min.css"
-
 export {
     CtaButtons,
     Footer,
