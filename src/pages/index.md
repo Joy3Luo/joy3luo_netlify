@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hiiiiii, '
-    content: How are you doing today ( •̀ - •́ )✧
+    content: How are you doing today ( •̀ ˬ •́ )✧
     actions: []
   - section_id: about
     type: section_content
