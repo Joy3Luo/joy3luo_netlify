@@ -8,5 +8,10 @@ sections:
     posts_number: 4
     actions: []
     type: section_posts
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
 template: advanced
 ---
