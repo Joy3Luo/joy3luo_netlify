@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hiiiiii, '
-    content: Welcome to my math/coding notes
+    content: How are you doing today ( •̀ 3 •́ )
     actions: []
   - section_id: about
     type: section_content
