@@ -7,7 +7,7 @@
         "tagline": "ʕ •ᴥ•ʔ",
         "profile_img": "images/IMG_4405.JPG",
         "background": "light",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
