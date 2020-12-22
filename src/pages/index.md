@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: |-
-      Welcome to my little world.  I am glad that you find me here (≥∇≤)
+      Welcome to my little world.  I am glad that you find me here (≥∇≤)Y
 
       I am a math student from University of Maryland. 
 
