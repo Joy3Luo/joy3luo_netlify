@@ -23,7 +23,7 @@ sections:
     type: section_form
   - title: kjkdjksa
     section_id: hero
-    posts_number: 0
+    posts_number: 6
     actions: []
     type: section_posts
   - title: lorem-ipsum
