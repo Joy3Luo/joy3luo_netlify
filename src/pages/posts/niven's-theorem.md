@@ -3,7 +3,7 @@ title: Niven's Theorem
 subtitle: ''
 date: '2020-12-22'
 excerpt: lorem-ipsum
-canonical_url: stackbit
+canonical_url: ''
 template: post
 ---
 
