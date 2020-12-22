@@ -17,7 +17,7 @@ sections:
 
       I enjoy taking notes and share my notes to the world.
 
-      Hope you will find something interesting here, I bet you will ^-^
+      Hope you will find something interesting here, I bet you will ^ - ^
     actions:
       - label: Contact Me
         url: /contact
