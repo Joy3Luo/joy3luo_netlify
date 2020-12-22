@@ -6,6 +6,13 @@ sections:
     type: section_hero
     title: 'Hiiiiii, '
     content: Welcome to my math/coding notes
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: about
     type: section_content
     title: About me
