@@ -1,6 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
+import "katex/dist/katex.min.css"
+
 import {getData, Link, withPrefix} from '../utils';
 
 export default class BlogPostCategories extends React.Component {

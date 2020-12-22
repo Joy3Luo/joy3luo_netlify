@@ -1,6 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
+import "katex/dist/katex.min.css"
+
 import {getData} from '../utils';
 import BlogPostFeedItem from './BlogPostFeedItem';
 
@@ -29,7 +31,7 @@ export default class BlogFeedItemFilter extends React.Component {
                         )
                     )
                 })
-            ) : 
+            ) :
                 <BlogPostFeedItem {...this.props} blog_feed_section={section} post_page={post} />
             )
         );
