@@ -6,7 +6,6 @@ excerpt: ''
 canonical_url: nivens-theorem
 template: post
 ---
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-TG0XJZG53F"></script>
   <script>
@@ -33,9 +32,24 @@ MathJax.Hub.Queue(function() {
 
 ## <font color= 977FD7> Niven's Theorem</font>
 
-Niven's theorem states that if $\frac{x}{\pi}$ and $sin x$ are both <font color= E675A7> rational</font>, then the sine takes values 0, ±$\frac{1}{2}$ and ±1.<br/>
+Niven's theorem states that if \frac{x}{\pi}\
+
+
+
+An inline math: \\\(E=mc^2\\\).
+
+A display math:
+
+$$
+i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
+\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
+$$
+
+
+
+and $sin x$ are both <font color= E675A7> rational</font>, then the sine takes values 0, ±$\frac{1}{2}$ and ±1.<br/>
  <br/>Particular cases include<br/>
-$sin (\pi) = 0 $<br/>
+sin (\pi) = 0 <br/>
 $sin (\frac{\pi}{2}) = 1 $<br/>
 $sin (\frac{\pi}{6}) = \frac{1}{2} $<br/>
 
