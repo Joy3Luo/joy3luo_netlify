@@ -2,7 +2,7 @@
 title: Niven's Theorem
 subtitle: ''
 date: '2020-12-22'
-excerpt: lorem-ipsum
+excerpt: ''
 canonical_url: nivens-theorem
 template: post
 ---
