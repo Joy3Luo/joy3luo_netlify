@@ -1,6 +1,6 @@
 {
     "description": "Personal blogging theme for Joy",
-    "layout_style": "simple",
+    "layout_style": "overflow",
     "palette": "blue",
     "header": {
         "title": "Hola this is Joy",
